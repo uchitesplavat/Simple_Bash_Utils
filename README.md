@@ -8,7 +8,7 @@ In this project I learned and developed basic Bash utilities for working with C 
 
 ## Build
 
-Install my-project with make
+Build my-project with make
 
 ```bash
   make all
